@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/https%3A%2F%2Fhub.mybinder.org%2Fuser%2Fandydev13-tweebot-0lj5zjj9%2Ftree/master)
 # Tweebot
 
 Tweebot is a python chatbot that helps you with Twitter surfing!
